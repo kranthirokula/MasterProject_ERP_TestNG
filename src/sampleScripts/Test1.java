@@ -6,6 +6,7 @@ public class Test1 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello I am adding lines from Eclipse..");
+		System.out.println("Hi, I am adding lines from GITHUB Server..");
 
 	}
 
