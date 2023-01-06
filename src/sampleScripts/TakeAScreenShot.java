@@ -20,6 +20,7 @@ public class TakeAScreenShot {
            driver.findElement(By.id("btnsubmit")).click();
            if(driver.findElement(By.id("ewPageCaption1")).isDisplayed()) {
         	  System.out.println("TestCase Passed..");
+        	  System.out.println("This line is added from Eclipse from Engineer A..");
            }
         }
         //Call take screenshot function
