@@ -21,6 +21,7 @@ public class TakeAScreenShot {
            if(driver.findElement(By.id("ewPageCaption1")).isDisplayed()) {
         	  System.out.println("TestCase Passed..");
         	  System.out.println("This line is added from Eclipse from Engineer A..");
+		  System.out.println("This line is added by Engineer B................");
            }
         }
         //Call take screenshot function
